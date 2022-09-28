@@ -1,0 +1,96 @@
+$MV_dry
+
+	Welch Two Sample t-test
+
+data:  dati_ester_contr[, i] and dati_ester_treat[, i]
+t = -0.56309, df = 30.006, p-value = 0.5776
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -49.68482  28.20832
+sample estimates:
+mean of x mean of y 
+ 521.9247  532.6630 
+
+
+$MV_fr
+
+	Welch Two Sample t-test
+
+data:  dati_ester_contr[, i] and dati_ester_treat[, i]
+t = -6.564, df = 28.936, p-value = 3.469e-07
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -168.73011  -88.55669
+sample estimates:
+mean of x mean of y 
+ 544.1109  672.7543 
+
+
+$res_comp
+
+	Welch Two Sample t-test
+
+data:  dati_ester_contr[, i] and dati_ester_treat[, i]
+t = 2.7959, df = 36.838, p-value = 0.008174
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 1.580752 9.907975
+sample estimates:
+mean of x mean of y 
+ 47.82759  42.08323 
+
+
+$res_taglio
+
+	Welch Two Sample t-test
+
+data:  dati_ester_contr[, i] and dati_ester_treat[, i]
+t = 2.5598, df = 31.06, p-value = 0.01556
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.159679 1.411053
+sample estimates:
+mean of x mean of y 
+ 10.95145  10.16608 
+
+
+$MOE
+
+	Welch Two Sample t-test
+
+data:  dati_ester_contr[, i] and dati_ester_treat[, i]
+t = 2.622, df = 36.958, p-value = 0.01262
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+  398.4322 3108.7207
+sample estimates:
+mean of x mean of y 
+ 11930.46  10176.88 
+
+
+$MOR
+
+	Welch Two Sample t-test
+
+data:  dati_ester_contr[, i] and dati_ester_treat[, i]
+t = 1.2584, df = 36.819, p-value = 0.2162
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -4.043265 17.292066
+sample estimates:
+mean of x mean of y 
+ 97.11804  90.49364 
+
+
+$HB
+
+	Welch Two Sample t-test
+
+data:  dati_ester_contr[, i] and dati_ester_treat[, i]
+t = -0.13457, df = 35.754, p-value = 0.8937
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -5.671747  4.966089
+sample estimates:
+mean of x mean of y 
+ 26.36851  26.72134 
